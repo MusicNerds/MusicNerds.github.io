@@ -1,0 +1,138 @@
+.navbar-brand {
+	font-family: Rock Salt;
+    background-color: #0000FF;
+ 
+}
+.navbar-inverse {
+	font-family: rock salt;
+	background-color: #0000FF;
+
+}
+
+h1 {
+	font-family: Fresca;
+	text-align: center;
+	font-size: 65px;
+	color: #800000;
+	display: inline-block;
+
+}
+p {
+   
+   font-family: fresca;
+   
+
+}
+
+div {
+	display: block;
+	float:left;
+}
+
+#myman {
+	position: absolute;
+	top: 90px;
+}
+
+#container {
+	width:100%;
+	overflow: hidden; 
+}
+
+#second {
+	overflow: hidden;
+}
+	
+
+#first {
+	width:32%;
+	height:800px;
+	float:left;
+}
+
+#meny1 {
+	background-color: #40E0D0;
+
+
+}
+
+#index {
+	background-image: url("../bilder/musiko.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+} 
+ #förstarubriken {
+ 	font-family: fresca;
+ 	text-align: center;
+ 	font-size: 65px;
+
+ }
+ .logo {
+ 	width: 100px;
+ 	height:100px;
+ 	display: inline-block;
+ 	margin: 30px; 
+ }
+ 
+body {
+	background-color: 
+    
+}
+#intro {
+	font-size: 20px;
+	width: 650px;
+	border-radius: 1em;                                            
+	background-color: magenta;
+	padding: 1em;
+}
+#shapeofYou {
+	font-family: fresca;
+	font-size: 20px;
+}
+#Shape {
+
+}
+#Topplistor {
+	text-align: center;
+	margin-left: 100px	;
+}
+
+
+li a{
+	font-size: 20px; 
+}
+
+main li {
+	font-size: 40px;
+	font-family: Comfortaa;
+}
+
+#TOP102017 {
+	position: absolute;
+	right: 60px;
+	top: 95px;
+}
+
+.navbar-brand {
+	background-image: url(../bilder/3.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 50px;
+	width: 50px; 
+	margin-left: 85px;
+
+}
+
+.navbar-inverse{
+	height: 75px;
+
+}
+
+.navbar-inverse .container{
+	height: 75px;
+	padding: 10px;
+	
+}
